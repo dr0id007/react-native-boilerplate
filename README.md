@@ -1,32 +1,23 @@
-# Project Title
+# React Native Boilerplate
 
-Focus app to stay productive and reach your goals.
+Bootstrap your react native project
 
 ## Badges
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-
-## Screenshots
-
-<p float="left">
-<img src="./screenshots/image1.jpg" width="150">
-<img src="./screenshots/image2.jpg" width="150">
-<img src="./screenshots/image3.jpg" width="150">
-</p>
-<br />
 
 ## Run Locally
 
 Clone the project
 
 ```bash
-  git clone https://github.com/dr0id007/forest-native.git
+  git clone https://github.com/dr0id007/react-native-boilerplate.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd forest-native
+  cd react-native-boilerplate
 ```
 
 Install dependencies
