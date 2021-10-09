@@ -12,7 +12,6 @@
   },
   "dependencies": {
     "@react-native-async-storage/async-storage": "^1.15.9",
-    "@react-navigation/drawer": "^6.1.6",
     "@react-navigation/native": "^6.0.4",
     "@react-navigation/stack": "^6.0.9",
     "date-fns": "^2.25.0",
@@ -28,7 +27,6 @@
     "react-native-modalize": "^2.0.8",
     "react-native-paper": "^4.9.2",
     "react-native-push-notification": "^8.1.1",
-    "react-native-reanimated": "^2.2.2",
     "react-native-safe-area-context": "^3.3.2",
     "react-native-screens": "^3.8.0",
     "react-native-svg": "^12.1.1",
